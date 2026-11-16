@@ -1,0 +1,12 @@
+header {
+    background-color: lightgreen;
+}
+
+body {
+    background-color: red;
+    text-emphasis-color: green;
+}
+
+.indexbutton {
+    background-color: white;
+}
